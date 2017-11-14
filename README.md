@@ -1,2 +1,0 @@
-# teofr.github.io
-Blog
