@@ -9,9 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
-    - uses: textbook/git-checkout-submodule-action@master
-      with:
-        remote: true
     - name: shalzz/zola-deploy-action
       uses: shalzz/zola-deploy-action@master
       env:
