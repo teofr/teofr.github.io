@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - master
+      - source
 name: Build and deploy on pushes to master
 jobs:
   build:
