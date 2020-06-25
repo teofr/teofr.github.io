@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://teofr.github.io/sitemap.xml
