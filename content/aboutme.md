@@ -5,11 +5,12 @@ title = "About Me"
 no_header = true
 +++
 
-I'm a Computer Science student from Buenos Aires, Argentina. I'm currently working on my dissertation.
+I'm a Software Engineer from Buenos Aires, Argentina. I'm currently working as a Research Software Engineer at Huawei UK.
 
-Previously, I did a bunch of internships at Google, Facebook and Tweag I/O. I also competed on the 2019 ICPC World Finals.
+Previously, I worked at Salesforce and Invgate; and I did a bunch of internships at Google, Facebook and Tweag I/O.
+I also competed on the 2019 ICPC World Finals.
 
-You can get my [resume here](https://github.com/teofr/CV/releases/latest/download/cv_en.pdf)
+You can get my (likely out of date) [resume here](https://github.com/teofr/CV/releases/latest/download/cv_en.pdf)
 
 ## Contact
 
