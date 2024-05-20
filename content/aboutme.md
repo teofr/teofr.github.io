@@ -1,5 +1,5 @@
 +++
-title = "About Me"
+title = "about me"
 
 [extra]
 no_header = true
