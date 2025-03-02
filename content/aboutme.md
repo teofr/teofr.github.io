@@ -24,7 +24,7 @@ You can get my (likely out of date) [resume here](https://github.com/teofr/CV/re
 
 You can contact me
 <br>
-by email tfreund 95 at gmail dot com 
+by email tfreund95 at gmail dot com 
 <br>
 or by telegram @teofr.
 
