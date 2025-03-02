@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ page.title }}</h1>
+
+<div>
+    {{ page.content | safe }}
+    <ul>
+        {% for publication in page.extra.publications %}
+        <li style="list-style-type: none; margin-bottom: 10px;">
+            <div style="display: flex; flex-direction: row; align-items: flex-start;">
+                <div style="flex-shrink: 1; min-width: 150px; text-align: right; margin-right: 20px;">
+                    <span style="color:gray;">({{ publication.type }})</span> {% if publication.conference %}{{ publication.conference }}, {% endif %}{{ publication.date }}
+                </div>
+                <div style="flex-grow: 1;">
+                    <a href="{{ publication.link }}"><strong>{{ publication.title }}</strong></a>
+                </div>
+            </div>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
+
+{% endblock content %}

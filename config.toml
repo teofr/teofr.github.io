@@ -18,5 +18,6 @@ theme = "sam"
 # Put all your custom variables here
 sam_menu = [
     {text = "about me", link = "/aboutme"},
-    {text = "github", link = "https://github.com/teofr"}
+    {text = "writings", link = "/writings"},
+    {text = "github", link = "https://github.com/teofr"},
 ]
